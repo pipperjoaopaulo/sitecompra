@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Casas Bahia</string>
+    <string name="nav_open">Abrindo Menu</string>
+    <string name="nav_close">Fechando Menu</string>
+</resources>
